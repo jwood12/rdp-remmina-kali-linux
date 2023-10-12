@@ -1,0 +1,1 @@
+chmod +x rdp-remmina-kali-linux.sh
