@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Set the RDP server IP address
+RDP_SERVER="xxx.xxx.xxx.xxx"
+
+# Use Remmina to start the RDP session
+remmina -c rdp://$RDP_SERVER
